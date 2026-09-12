@@ -1,24 +1,21 @@
 # 👋 Hi, I'm Niketh Kammari
 
-### 💻 Software Engineer | AI/ML | Full-Stack Development | IoT
-
-I'm a Computer Science Engineering student passionate about building practical software solutions, AI-powered applications, and intelligent IoT systems.
-
-I enjoy turning real-world problems into scalable and user-friendly technology.
-
----
+### 💻 Software Development | AI/ML Engineering | Full-Stack Development | Data Analyst
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science Engineering | Expected Graduation: 2027
-- 💼 Salesforce Futureforce Software Engineering Intern
-- 🤖 Viswam.ai Summer of AI Intern
-- 🏆 SAP Innovation Marathon 4.0 Finalist
-- 🌱 Completed SAP Code Unnati Advanced Course on Emerging Technologies
-- 🔭 Currently exploring Software Engineering, AI/ML, Backend Development & Automation
-- 💡 Interested in building technology that solves real-world problems
-
+-  B.Tech in Computer Science Engineering | Expected Graduation: 2027.
+-  SAP Innovation Marathon 4.0 Finalist.
+-  LOE by Unstop Campus Ambassador.
+-  Completed SAP Code Unnati Advanced Course on Emerging Technologies.
+-  Currently Pursuing: Data Analysis by Sketch Brains and Full Stack by !0000 Coders.
 ---
+
+## 🌐 Connect me here
+
+![Potfolio](https://niketh-portfolio.vercel.app/)
+![Linkedin]([https://niketh-portfolio.vercel.app/](https://www.linkedin.com/in/nikethkammari/))
+
 
 ## 🛠️ Tech Stack
 
