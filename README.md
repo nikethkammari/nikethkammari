@@ -1,9 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=180&section=header&text=Niketh%20Kammari&fontSize=45&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=3&section=header&text=" width="100%"/>
 
 
 ### 💻 Software Development | AI/ML Engineering | Full-Stack Development | Data Analysis
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=3&section=header&text=" width="100%"/>
+
 
 ## 🚀 About Me
 
@@ -12,7 +16,6 @@
 -  LOE by Unstop Campus Ambassador.
 -  Completed SAP Code Unnati Advanced Course on Emerging Technologies.
 -  Currently Pursuing: Data Analysis by Sketch Brains and Full Stack by !0000 Coders.
----
 
 ## 🌐 Connect Me Here
 
@@ -25,7 +28,6 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
 
 ## 🛠️ Tech Stack
 
@@ -63,4 +65,3 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
