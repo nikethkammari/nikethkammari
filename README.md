@@ -1,4 +1,7 @@
-# 👋 Hi, I am Niketh Kammari
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=180&section=header&text=Niketh%20Kammari&fontSize=45&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
+</p>
+
 
 ### 💻 Software Development | AI/ML Engineering | Full-Stack Development | Data Analysis
 
