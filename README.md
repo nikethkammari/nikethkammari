@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=3&section=header&text=" width="100%"/>
 
 
-### 💻 Software Development | AI/ML Engineering | Full-Stack Development | Data Analysis | Automation
+###       Software Development | AI/ML Engineering | Full-Stack Development | Data Analysis | Automation
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=3&section=header&text=" width="100%"/>
 
