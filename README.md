@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niketh Kammari
+# 👋 Hi, I am Niketh Kammari
 
 ### 💻 Software Development | AI/ML Engineering | Full-Stack Development | Data Analysis
 
@@ -11,7 +11,7 @@
 -  Currently Pursuing: Data Analysis by Sketch Brains and Full Stack by !0000 Coders.
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect Me Here
 
 <p align="left">
   <a href="https://niketh-portfolio.vercel.app/" target="_blank">
